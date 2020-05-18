@@ -1,9 +1,15 @@
 .image-container
   position: relative
-  width: 100%
+  width: 30%
   margin-bottom: 20px
-  &:hover .overlay
-    opacity: 1
+  float: left
+  // &:hover .overlay
+  //   opacity: 1
+  &:first-child, &.first
+    margin-right: 5%
+  &:last-child, &.last
+    margin-left: 5%
+    float: right
   .image
     display: block
     width: 100%

@@ -4,7 +4,10 @@
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
   color: $headlineColor
-  font-weight: bold
+  // font-weight: bold
+  line-height: 1.25
+  margin-top: 1rem
+  text-rendering: optimizeLegibility
 
 .gigantic
   font-size: 110px
@@ -12,21 +15,16 @@ h1, h2, h3, h4, h5, h6
   letter-spacing: -2px
 
 .huge, h1
-  font-size: 68px
-  line-height: 1.05
-  letter-spacing: -1px
+  font-size: 2rem
 
 .large, h2
-  font-size: 42px
-  line-height: 1.14
+  font-size: 1.5rem
 
 .bigger, h3
-  font-size: 26px
-  line-height: 1.38
+  font-size: 1.25rem
 
-.big, h4
-  font-size: 22px
-  line-height: 1.38
+.big, h4, h5, h6
+  font-size: 1rem
 
 .small, small
   font-size: 10px
@@ -98,11 +96,6 @@ body
 svg
   +size(100%)
 
-h3
-  @extend %small-bold
-  color: $accent-light
-  text-align: center
-  padding: 100px 0 30px
 
 fieldset
   padding: 0
