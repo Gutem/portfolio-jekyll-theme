@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Política de Segurança da Informação"
+title: "Norma de Serviço Cloud"
 excerpt: "Fornecer diretrizes e recomendações para proteção das pessoas, informações e tecnologias que compõem o ecossistema da companhia."
-type: "politica"
+type: "norma"
 ---
 
 | Versão | Elaboração | Item | Revisão | Aprovação | Data |
@@ -15,26 +15,26 @@ type: "politica"
 1. [Objetivo](#1-objetivo)  
 2. [Classificação da informação](#2-classificação-da-informação)  
 3. [Uso aceitável](#3-uso-aceitável)  
-	3.1. [Informações](#31-informações)  
-	3.2. [Equipamentos](#32-equipamentos)  
-	3.3. [Sistemas](33-sistemas)  
-	3.4. [Internet](#34-internet)  
-	3.5. [E-mail](#35-e-mail)  
-	3.6. [Senhas](#36-senhas)  
+    3.1. [Informações](#31-informações)  
+    3.2. [Equipamentos](#32-equipamentos)  
+    3.3. [Sistemas](33-sistemas)  
+    3.4. [Internet](#34-internet)  
+    3.5. [E-mail](#35-e-mail)  
+    3.6. [Senhas](#36-senhas)  
 4. [Uso inaceitável](#4-uso-inaceitável)  
-	4.1. [Informações](#41-informações)  
-	4.2. [Equipamentos](#42-equipamentos)  
-	4.3. [Sistemas](#43-sistemas)  
-	4.4. [Internet](#44-internet)  
-	4.5. [E-mail](#45-e-mail)  
-	4.6. [Senhas](#46-senhas)  
+    4.1. [Informações](#41-informações)  
+    4.2. [Equipamentos](#42-equipamentos)  
+    4.3. [Sistemas](#43-sistemas)  
+    4.4. [Internet](#44-internet)  
+    4.5. [E-mail](#45-e-mail)  
+    4.6. [Senhas](#46-senhas)  
 5. [Controle de acesso](#5-controle-de-acesso)  
-	5.1. [Lógico](#51-lógico)  
-	5.2. [Físico](#52-físico)  
+    5.1. [Lógico](#51-lógico)  
+    5.2. [Físico](#52-físico)  
 6. [Privacidade](#6-privacidade)  
 7. [Incidente de segurança](#7-incidente-de-segurança)  
-	7.1. [Tipos de incidentes](#71-tipos-de-incidentes)  
-	7.2. [Comunicação](#72-comunicação)  
+    7.1. [Tipos de incidentes](#71-tipos-de-incidentes)  
+    7.2. [Comunicação](#72-comunicação)  
 
 ### 1. Objetivo
 Fornecer diretrizes e recomendações para proteção das pessoas, informações e tecnologias que compõem o ecossistema da companhia.
